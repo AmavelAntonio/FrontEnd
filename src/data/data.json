@@ -1,0 +1,156 @@
+{
+  "Header": {
+    "title": "Nós somos a yellow",
+    "paragraph": "Prometemos cuidar sempre de si e do seu bem-estar mental."
+  },
+  "About": {
+    "paragraph": "Somos uma empresa que se dedica a oferecer serviços de saúde mental gratuitos para a comunidade. Acreditamos que todos merecem ter acesso a cuidados de saúde mental de qualidade, independentemente da sua renda ou situação financeira",
+    "Why": [
+      "Serviços gratuitos",
+      "Profissionais qualificados",
+      "Tratamentos personalizados",
+      "Ambiente acolhedor e seguro"
+    ],
+    "Why2": [
+      "Abordagem holística",
+      "Compromisso com a acessibilidade",
+      "Apoio à comunidade",
+      "Compromisso com a qualidade"
+    ]
+  },
+  "Gallery": [
+    {
+      "largeImage": "img/portfolio/05.jpg",
+      "smallImage": "img/portfolio/05.jpg"
+    },
+    {
+      "largeImage": "img/portfolio/02.jpg",
+      "smallImage": "img/portfolio/02.jpg"
+    },
+    {
+      "largeImage": "img/portfolio/03.jpg",
+      "smallImage": "img/portfolio/03.jpg"
+    },
+    {
+   
+      "largeImage": "img/portfolio/009.jpg",
+      "smallImage": "img/portfolio/009.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa-regular fa-user-doctor",
+      "name": "Avaliação inicial",
+      "text": "Nossos profissionais de saúde mental conduzem avaliações iniciais para entender as necessidades do paciente e criar um plano de tratamento personalizado."
+    },
+    {
+      "icon": "fa-regular fa-user-doctor",
+      "name": "Aconselhamento individual",
+      "text": "Oferecemos aconselhamento individual para pacientes que precisam de apoio emocional e orientação para lidar com problemas pessoais e emocioanais."
+    },
+    {
+      "icon": "fa-regular fa-user-doctor",
+      "name": "Terapia em grupo",
+      "text": "Oferecemos terapia em grupo para pacientes que desejam se conectar com outros que enfrentam desafios semelhantes e receber apoio emocional e orientação"
+    },
+    {
+      "icon": "fa-regular fa-user-doctor",
+      "name": "Terapia ocupacional",
+      "text": "Nossos terapeutas ocupacionais trabalham com pacientes para ajudá-los a desenvolver habilidades práticas e emocionais para lidar com os desafios do dia a dia."
+    },
+    {
+      "icon": "fa-regular fa-user-doctor",
+      "name": "Tratamento medicamentoso",
+      "text": "Nossos psiquiatras prescrevem medicamentos quando necessário para ajudar no tratamento de transtornos mentais"
+    },
+    {
+      "icon": "fa-regular fa-user-doctor",
+      "name": "Suporte de crise",
+      "text": "Oferecemos suporte de crise para pacientes que estão passando por um momento difícil e precisam de ajuda imediata"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/NAOMIOSAKA.avif",
+      "text": "\"Quando eu cheguei na clínica, eu estava em um momento muito difícil da minha vida. Sentia que não conseguia lidar com os meus problemas sozinho e precisava de ajuda. Fui recebido com muito carinho e atenção pela equipe da clínica, que me acolheu e me ajudou a entender melhor os meus sentimentos e emoções.\"",
+      "name": "Naomi Osaka"
+    },
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Ao longo das sessões, fui aprendendo a lidar com as minhas crises de ansiedade e a controlar os meus pensamentos negativos. Foi um processo difícil, mas que me trouxe muitos aprendizados e me ajudou a superar os meus medos..\"",
+      "name": "Paulo Bunga"
+    },
+    {
+      "img": "img/testimonials/MariaCarlos.jpg",
+      "text": "\"Eu cheguei na clínica em um momento muito difícil da minha vida. Estava passando por uma depressão profunda e não conseguia enxergar uma saída para os meus problemas. Fui acolhido com muito amor e carinho pela equipe da clínica, que me ajudou a entender melhor os meus sentimentos e emoções. Hoje, graças ao tratamento que recebi, estou me sentindo muito melhor e mais confiante para enfrentar os desafios da vida..\"",
+      "name": "Maria Carlos"
+    },
+    {
+      "img": "img/testimonials/RodrigoCabral.jpg",
+      "text": "\"Quando cheguei na clínica, estava sofrendo de crises de pânico constantes que me impediam de viver a minha vida normalmente. A equipe da clínica foi muito atenciosa e me ajudou a identificar as causas dos meus medos e a controlar as minhas reações. Hoje, me sinto muito mais confiante e capaz de enfrentar qualquer situação\"",
+      "name": "Rodrigo Cabral"
+    }, 
+    {
+      "img": "img/testimonials/RosaAndre.jpg",
+      "text": "\"Eu sofria de ansiedade há muitos anos e achava que nunca conseguiria me livrar desse problema. Mas, graças ao tratamento que recebi na clínica, consegui aprender a lidar melhor com os meus pensamentos negativos e a controlar as minhas crises de ansiedade. Hoje, me sinto muito mais feliz e equilibrado.\"",
+      "name": "Rosa André"
+    },
+    {
+      "img": "img/testimonials/JulianaPinto.jpg",
+      "text": "\"Eu sofria de insônia há muitos anos e isso estava afetando muito a minha qualidade de vida. A equipe da clínica me ajudou a identificar as causas do meu problema e a encontrar maneiras de melhorar o meu sono. Hoje, estou dormindo melhor e me sentindo muito mais disposto durante o dia..\"",
+      "name": "Juliana Pinto"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/1.jpg",
+      "name": "Ana Rita Azevedo",
+      "job": "Psicologa Clínica"
+    },
+    {
+      "img": "img/team/Elizandra Sousa.jpg",
+      "name": "Elizandra Sousa",
+      "job": "Psicologa Aplicada"
+    },
+    {
+      "img": "img/team/Mario Castro.jpg",
+      "name": "Mario Catro",
+      "job": "Neuropsicólogo"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Marcos Andrade",
+      "job": "Psicólogo social"
+    }
+  ],
+  "Contact": {
+    "address": "Luanda, Centralidade do Kilamba, Bloco W, AP W8 33 ",
+    "phone": "+244 928 932 960",
+    "email": "yellowinfo@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
